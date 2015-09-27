@@ -1,0 +1,34 @@
+8
+
+0	0	2
+1	1	c	uo
+2	3	c	uo
+
+1	0	3
+3	6	uc	uo
+4	0	uc	uo
+0	2	c	o
+
+2	0	1
+0	4	c	o
+
+3	0	0
+
+4	0	3
+4	7	uc	uo
+0	2	c	o
+2	7	c	uo
+
+5	0	3
+1	6	c	uo
+2	5	c	uo
+3	4	uc	uo
+
+6	1	2
+4	2	uc	uo
+2	0	c	uo
+
+7	0	2
+1	5	c	uo
+4	4	uc	uo
+
